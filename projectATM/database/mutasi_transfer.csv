@@ -1,0 +1,4 @@
+nama_pengirim,rekening_pengirim,rekening_tujuan,bank_pengirim,bank_tujuan,jumlah_transfer,pajak,total_transfer,tanggal
+adeline,6705485415,8051955154,BRI,BCA,20000.0,400.0,20400.0,2024-11-24 15:59:40
+adeline,6705485415,8051955154,BRI,BCA,10000.0,200.0,10200.0,2024-11-26 18:47:22
+adeline,6705485415,8051955154,BRI,BCA,10000.0,200.0,10200.0,2024-11-26 19:17:16
